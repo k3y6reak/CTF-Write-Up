@@ -1,2 +1,2 @@
-# CTF-Write-Up
+# CTF-Write-Ups
 Archive CTF Wirte Ups
